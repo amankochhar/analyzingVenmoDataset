@@ -1,6 +1,7 @@
-# Coded by Aman Kochhar
-# amanskochhar@gmail.com
 # For insight fellowship coding challenge
+Coded by Aman Kochhar
+amanskochhar@gmail.com
+
 This is the adjoining ReadMe file to help run this solution.
 
 Libraries used in the solution are
